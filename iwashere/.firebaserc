@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "iwashere-42cfa": {
+      "hosting": {
+        "iwashere": [
+          "iwashere-42cfa"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "iwashere-42cfa"
+  }
+}
